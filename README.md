@@ -6,9 +6,10 @@ Projects
 ------------------------------------------------------------------------------------------------------------------------------------------
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **BloodConnect** | Solo-built platform to simplify blood donation management | TypeScript, React, Vite, Vercel | ✅ Live |
-| **SolveLabs** | AI-powered platform for innovators to find problems & build solutions | TypeScript | ✅ Live |
-| **Legal Rights App** | Hackathon app for legal awareness, led a 4-person team | TypeScript, React | ✅ Built |
+| [**BloodConnect**](https://github.com/roshan0650/BloodConnect) | Solo-built platform to simplify blood donation management | TypeScript, React, Vite, Vercel | ✅ Live |
+| [**SolveLabs**](https://github.com/roshan0650/Solve-Labs) | AI-powered platform for innovators to find problems & build solutions | TypeScript | ✅ Live |
+| [**CleanAI**](https://github.com/roshan0650/CleanAI) | Laundry POS system with embedded AI chat | TypeScript, Anthropic API | ✅ Built |
+| [**Legal Rights App**](https://github.com/roshan0650/Legal-Rights-App) | Hackathon app for legal awareness, led a 4-person team | TypeScript, React | ✅ Built |
 
 Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------
