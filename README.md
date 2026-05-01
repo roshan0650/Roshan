@@ -1,6 +1,6 @@
 Hi, I'm Roshan 
 ------------------------------------------------------------------------------------------------------------------------------------------
-I'm a first-year B.Tech student in Computer Science (AI & ML) at Malla Reddy College of Engineering, Hyderabad. I build things that sit at the intersection of AI and real-world impact — from blood donation platforms to AI-powered innovation tools.
+I'm a Second-year B.Tech student in Computer Science (AI & ML) at Malla Reddy College of Engineering, Hyderabad. I build things that sit at the intersection of AI and real-world impact — from blood donation platforms to AI-powered innovation tools.
 
 Projects
 ------------------------------------------------------------------------------------------------------------------------------------------
