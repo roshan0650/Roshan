@@ -4,10 +4,11 @@ Second-year CS undergrad passionate about AI/ML. I build things that solve real 
 
 What I'm Building
 
-BloodConnect — A solo-built platform to simplify blood donation management, built with TypeScript, React, Vite, and deployed on Vercel.
-SolveLabs — An AI-powered platform helping innovators find real problems, analyze startup ideas, and build meaningful solutions.
-CleanAI — A laundry POS system powered by the Anthropic API with embedded AI chat interfaces.
-Legal Rights Awareness App — A hackathon project where I led a four-person team to build an accessible legal awareness tool.
+| Project | Description | Tech |
+|---------|-------------|------|
+| BloodConnect | Blood donation platform | TypeScript, React |
+| SolveLabs | AI innovation tool | TypeScript |
+| CleanAI | Laundry POS system | Anthropic API |
 
 What I'm Learning
 My coursework covers AI, Machine Learning, DBMS, Discrete Mathematics, Automata Theory, Compiler Design, and Java. Outside class, I'm diving deeper into game trees, classical planning, first-order logic, and probabilistic AI systems.
